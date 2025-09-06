@@ -1,0 +1,1 @@
+# print-cube-of-given-number
