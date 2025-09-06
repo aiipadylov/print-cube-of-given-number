@@ -1,4 +1,3 @@
-//print cube of numbers
 #include <stdio.h>
 
 int main() {
